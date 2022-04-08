@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 Assigment01/dataset/*
+*/venv/*
+*/__pycache__/*
